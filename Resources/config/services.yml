@@ -1,0 +1,4 @@
+services:
+    sbnet.flickr.search:
+        class: Sbnet\FlickrSearchBundle\Services\FlickrSearch
+

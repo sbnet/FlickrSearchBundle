@@ -1,0 +1,3 @@
+sbnet_flickr_search_homepage:
+    path:     /
+    defaults: { _controller: SbnetFlickrSearchBundle:Default:index }
